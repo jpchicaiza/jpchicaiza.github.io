@@ -31,17 +31,17 @@ Ingeniero Civil - Master en Ingeniería Estructural graduado en la Universidad d
 
 Modelos estructurales avanzados utilizando SEISMOSTRUCT
 
-![imagen1](assets\img\Figure3.png)
+![imagen1](assets/img/Figure3.png)
 
 #### ESPECTRO DE RESPUESTA
 
 Escalamiento sísmico basado en el espectro de la NEC-15.
 
-![imagen2](assets\img\Figure5a.png)
+![imagen2](assets/img/Figure5a.png)
 
 Relación al espectro objetivo mediante la media artimética de los 11 pares de resgistros
 
-![imagen3](assets\img\Figure5b.png)
+![imagen3](assets/img/Figure5b.png)
 
 ##### PUSHOVER vs. CURVAS IDA
 
@@ -53,19 +53,19 @@ Validación de la respuesta estructural mediante el IDA.
 
 Las curvas de fragilidad obedecen a una función de distribución logarítmica normal mostrada en la ecuación (1), además, la metodología del FEMA-P-58 ofrece sus propias formulaciones para calcular los parámetros estadísticos de mediana y desviación estándar
 
-![imagen5](assets\img\Figure10.png) 
+![imagen5](assets/img/Figure10.png) 
 
 Formualción matemática para aplicación de la metodología FEMA
 
-![imagen6](assets\img\Figure10_t.png)
+![imagen6](assets/img/Figure10_t.png)
 
 ## COSTOS DE REPARACIÓN
 
 Curvas de fragilidad RSN-864.Curva de fragilidad por deriva global.
 
-![imagen7](assets\img\Figure12a.png) 
+![imagen7](assets/img/Figure12a.png) 
 
-![imagen8](assets\img\Figure14a.png) 
+![imagen8](assets/img/Figure14a.png) 
 ```
 The final element.
 ```
