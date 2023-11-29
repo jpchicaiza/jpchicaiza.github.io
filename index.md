@@ -2,122 +2,70 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**JUAN PATRICIO CHICAIZA FUENTES**
 
-[Link to another page](./another-page.html).
+[LINKEDIN](www.linkedin.com/in/patricio-chicaiza-fuentes)
 
-There should be whitespace between paragraphs.
+Ingeniero Civil - Master en Ingeniería Estructural graduado en la Universidad de las Fuerzas Armadas – ESPE, con experiencia en el sector de la infraestructura civil y diseño de edificaciones, conocimientos de ingeniería con aptitudes investigativas y ética de trabajo, habilidad en el uso software especializado dentro de diferentes áreas (administrativo, estructural, vial, entre otros), con experiencia en la elaboración de presupuestos, cronogramas, planillas, diseño, residencia y supervisión de obra. Docente en centros de capacitación especializados en ingeniería y universidades.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# FORMACIÓN ACADÉMICA
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| NIVEL       | INSTITUCIÓN          | AÑO|
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Educación Media | Colegio Militar #10 “Abdón Calderón | 2005  |
+| Educación Superior| Universidad de las Fuerzas  Armadas–ESPE.Ingeniero Civil    | 2016 |
+| Posgrado | Master en Investigación en Ingeniería Civil Mención Estructuras| 2023   |
+| Certificaciones | CORFOPYM - PREVENCIÓN EN RIESGOS LABORALES,SETEC-3103-CCL-173980. 2019 | 2019  |
 
 
-### Definition lists can be used with HTML syntax.
+## EXPERIENCIA
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+|CARGO       | INSTITUCIÓN          | AÑO |
+|:-------------|:------------------|:------|
+| Investigador/Laboratorista| Universidad de las Fuerzas Armadas – ESPE | 2016  |
+| Analista Técnico  | SEDEMI SCC   | 2017  |
+| Analista de estructuras y presupuestos| SEDEMI SCC      | 2019   |
+| Especialista de cálculo estructural| SEDEMI SCC | 2022  |
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### PROYECTOS ESTRUCTURALES
 
+Modelos estructurales avanzados utilizando SEISMOSTRUCT
+
+![imagen1](assets\img\Figure3.png)
+
+#### ESPECTRO DE RESPUESTA
+
+Escalamiento sísmico basado en el espectro de la NEC-15.
+
+![imagen2](assets\img\Figure5a.png)
+
+Relación al espectro objetivo mediante la media artimética de los 11 pares de resgistros
+
+![imagen3](assets\img\Figure5b.png)
+
+##### PUSHOVER vs. CURVAS IDA
+
+Validación de la respuesta estructural mediante el IDA.
+
+![imagen4](assets\img\Figure7a.png)
+
+## ANÁLISIS DE PÉRDIDAS
+
+Las curvas de fragilidad obedecen a una función de distribución logarítmica normal mostrada en la ecuación (1), además, la metodología del FEMA-P-58 ofrece sus propias formulaciones para calcular los parámetros estadísticos de mediana y desviación estándar
+
+![imagen5](assets\img\Figure10.png) 
+
+Formualción matemática para aplicación de la metodología FEMA
+
+![imagen6](assets\img\Figure10_t.png)
+
+## COSTOS DE REPARACIÓN
+
+Curvas de fragilidad RSN-864.Curva de fragilidad por deriva global.
+
+![imagen7](assets\img\Figure12a.png) 
+
+![imagen8](assets\img\Figure14a.png) 
 ```
 The final element.
 ```
