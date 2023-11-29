@@ -47,7 +47,7 @@ Relación al espectro objetivo mediante la media artimética de los 11 pares de 
 
 Validación de la respuesta estructural mediante el IDA.
 
-![imagen4](assets\img\Figure7a.png)
+![imagen4](assets/img/Figure7a.png)
 
 ## ANÁLISIS DE PÉRDIDAS
 
